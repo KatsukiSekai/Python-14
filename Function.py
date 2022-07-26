@@ -10,3 +10,4 @@ def sum(x,y):
     return "hello"
 
 print(sum(5,8))
+width = int(input("กรอกค่าความกว้าง : ")
